@@ -9,7 +9,7 @@
   "stable": {
     "version": "v0.9",
     "datePublished": "2025-04-22",
-    "downloadUrlPhp": "https://github.com/rwetzlmayr/wet_textfilter_markdown/archive/refs/tags/v0.9.zip",
+    "downloadUrlTxt": "https://codeberg.org/rwetzlmayr/wet_textfilter_markdown/raw/branch/main/wet_textfilter_markdown.txt",
     "phpHasManifest": 0
   }
 }
